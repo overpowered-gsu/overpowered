@@ -1,0 +1,14 @@
+<script> //Button Change + Alert.
+	function change(btnEle,evt) //Toggle On/Off for Buttons.
+{   
+ 
+    if (btnEle.value=="On") {
+		btnEle.value = "Off";
+	}
+		
+    else {btnEle.value = "On";}
+	
+	var status = btnEle.value;	//Pass status to notify function.
+	$.notify('Bulb turning '+status);
+}
+	</script>
