@@ -26,10 +26,10 @@ More information can be found on the documentation repository
 
 # Developers
 - **Caio Melo** - Front End 
-- **Cynthia Khan** - Backend and AI
+- **Cynthia Khan** - Back End and AI
 - **Noah Yasarturk** - Project Lead
-- **Ricky Le** - Smart Device 
-- **Sean Silva** - Tableau 
+- **Ricky Le** - Philips Hue API 
+- **Sean Silva** - Tableau API
 
 # Enviroments
 ```
