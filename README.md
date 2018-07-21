@@ -1,6 +1,6 @@
 # overpowered
 
-![alt text](https://github.com/overpowered-gsu/overpowered/overpoweredlight.png)
+![alt text](https://user-images.githubusercontent.com/38324338/43040398-c13faa22-8d10-11e8-90b2-d9477d83fd82.png)
 > **_Overpowered is an interface to monitor and regulate the company's energy usage. The package contains a login profile, 
 interactive dashboard, hourly notification features and smart device controls._**
 
